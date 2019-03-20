@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="ListaCidadeApp.ListView_Page">
+    
+    <StackLayout >
+        
+        <Label HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               Text="Nosso App"
+               FontSize="40"
+               x:Name="label_valor"
+               FontAttributes="Bold"
+               Margin="40"
+               />
+            
+         
+       <ListView x:Name="lista_de_dados"/>
+        
+        <StackLayout HorizontalOptions="Center" 
+                     VerticalOptions="EndAndExpand"
+                     Orientation="Horizontal" Margin="0, 140, 0, 50"
+                     >
+          
+         <Button Text="Voltar" WidthRequest="75" HeightRequest="60"
+                 VerticalOptions="End" 
+                 HorizontalOptions="Start"
+                 BackgroundColor="Gray"
+                 TextColor="White"
+                 Clicked="Voltar"/>
+            
+        </StackLayout>
+        
+        
+    </StackLayout>   
+    
+</ContentPage>

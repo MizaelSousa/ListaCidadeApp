@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{6839A951-2F34-4F8C-9B3A-F47FF16FB82E}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListaCidadeApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListaCidadeApp/App.xaml.cs">
+    <Files>
+      <File FileName="ListaCidadeApp/App.xaml" Line="5" Column="15" />
+      <File FileName="ListaCidadeApp/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="ListaCidadeApp/MainPage.xaml.cs" Line="67" Column="10" />
+      <File FileName="ListaCidadeApp/MainPage.xaml" Line="77" Column="15" />
+      <File FileName="ListaCidadeApp/ListView_Page.xaml" Line="39" Column="1" />
+      <File FileName="ListaCidadeApp/ListView_Page.xaml.cs" Line="19" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListaCidadeApp.Android PreferredExecutionTarget="Android.0045978518" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

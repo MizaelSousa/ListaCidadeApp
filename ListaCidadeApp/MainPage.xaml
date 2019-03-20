@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:ListaCidadeApp" 
+             x:Class="ListaCidadeApp.MainPage">
+    
+    <StackLayout >
+        
+        <Label HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               Text="Adicionar Cidades"
+               FontSize="20"
+               x:Name="label_valor"
+               FontAttributes="Bold"
+               Margin="40"/>
+            
+         <Entry Placeholder="Adiciona ou exclui cidade..." 
+                Margin="20" 
+                x:Name="campoAddCidade"/>
+        
+        <Entry Placeholder="Adiciona ou exclui UF..." 
+                Margin="20" 
+                x:Name="campoAddUf"/>
+         
+         <Entry Placeholder="Busca pelo indice " 
+                Margin="20"
+                x:Name="valor_indice"/>
+       
+         <Label HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               Text="Status..."
+               FontSize="20"
+               x:Name="label_status"
+                TextColor="Blue"
+               FontAttributes="Bold"
+               Margin="40"/>
+        
+        <StackLayout HorizontalOptions="Center" 
+                     VerticalOptions="EndAndExpand"
+                     Orientation="Horizontal" Margin="0, 20, 0, 50">
+            
+           <Button Text="Adicionar" 
+                   WidthRequest="75" 
+                   HeightRequest="60"
+                   VerticalOptions="End" 
+                   BackgroundColor="Gray"
+                   TextColor="White"
+                   HorizontalOptions="Start"
+                   Clicked="Adicionar"/>
+            
+           <Button Text="Remover" WidthRequest="75" HeightRequest="60"
+                   VerticalOptions="End" 
+                   BackgroundColor="Gray"
+                   TextColor="White"
+                   HorizontalOptions="Start"
+                   Clicked="Remover"/>
+                
+          <Button Text="Buscar" WidthRequest="75" HeightRequest="60"
+                  VerticalOptions="End" 
+                  HorizontalOptions="Start"
+                  BackgroundColor="Gray"
+                  TextColor="White"
+                   Clicked="Buscar"/>
+            
+         <Button Text="Checar" WidthRequest="75" HeightRequest="60"
+                  VerticalOptions="End" 
+                  HorizontalOptions="Start"
+                  BackgroundColor="Gray"
+                 TextColor="White"
+                   Clicked="ChecarLista"/>
+            
+        </StackLayout>
+        
+        
+    </StackLayout>
+    
+</ContentPage>

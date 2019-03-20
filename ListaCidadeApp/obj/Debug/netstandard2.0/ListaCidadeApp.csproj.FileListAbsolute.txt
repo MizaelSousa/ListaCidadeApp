@@ -1,0 +1,16 @@
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp/bin/Debug/netstandard2.0/ListaCidadeApp.deps.json
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp/bin/Debug/netstandard2.0/ListaCidadeApp.dll
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp/bin/Debug/netstandard2.0/ListaCidadeApp.pdb
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp/bin/Debug/netstandard2.0/Mono.Android.dll
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp/bin/Debug/netstandard2.0/Mono.Android.pdb
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp/obj/Debug/netstandard2.0/ListView_Page.xaml.g.cs
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp/obj/Debug/netstandard2.0/ListaCidadeApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp/obj/Debug/netstandard2.0/ListaCidadeApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp/obj/Debug/netstandard2.0/ListaCidadeApp.AssemblyInfo.cs
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp/obj/Debug/netstandard2.0/ListaCidadeApp.csproj.CopyComplete
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp/obj/Debug/netstandard2.0/ListaCidadeApp.dll
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp/obj/Debug/netstandard2.0/ListaCidadeApp.pdb
+/Users/aluno/Projects/ListaCidadeApp/ListaCidadeApp/obj/Debug/netstandard2.0/ListaCidadeApp.csprojAssemblyReference.cache
